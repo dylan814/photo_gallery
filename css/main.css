@@ -84,4 +84,9 @@ ul {
   flex-basis: 25%;
 }
 
+[src^="thumbs"]:hover {
+  box-shadow: 7px 7px 20px -10px #575655;
+  transform: rotateY(5deg);
+}
+
 }
