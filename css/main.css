@@ -69,7 +69,7 @@ ul {
   padding: 25px;
 }
 
-[src^="thumbs"] {
+[src^="photos/small"] {
   border-radius: 5px;
 
 }
@@ -82,11 +82,6 @@ ul {
 
 .gallery a {
   flex-basis: 25%;
-}
-
-[src^="thumbs"]:hover {
-  box-shadow: 7px 7px 20px -10px #575655;
-  transform: rotateY(5deg);
 }
 
 }

@@ -1,10 +1,9 @@
 
-//Lightgallery Plugin
 $(document).ready(function() {
         $("#lightgallery").lightGallery();
     });
 
-//Search function
+
 
 $("#search-bar").keyup(function() {
   let img_query = $("#search-bar").val().toLowerCase();
