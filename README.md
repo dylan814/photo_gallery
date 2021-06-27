@@ -1,4 +1,4 @@
-# photo_gallery
+# The photo gallery
 These files are a part of Dylan Pereira's submission for Treehouse's Front-End Web Development Techdegree project "Interactive Photo Gallery."
 
 This project involved:
